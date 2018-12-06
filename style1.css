@@ -1,0 +1,25 @@
+#header{
+    text-align: center;
+    font-size: xx-large;
+    color: chartreuse;
+    height: 100px;
+    background: #cce5ff;
+    border: solid 1px black ;
+}
+ul {
+    width: 100px;
+    background: #3399ff;
+    padding: 20px;
+    float: left;
+}
+ul li {
+    margin: 5px;
+}
+
+section {
+    float: right;
+}
+section img {
+    width: 300px;
+    height: 200px;
+}
